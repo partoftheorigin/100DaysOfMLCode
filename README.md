@@ -17,3 +17,8 @@ My journey through 100DaysOfMLCode Challenge
 - Research papers: 1. https://arxiv.org/pdf/1706.04560v2.pdf
 2. https://arxiv.org/pdf/1308.0850.pdf
 3. https://arxiv.org/pdf/1706.01450.pdf
+
+### Day 4
+- Working on Automated Question Generation.
+- Attended a Meetup on Getting to the Core of Deep Learning.
+- Still understanding the underlying concepts and approaches of the research papers so that we can create our own model from scratch.
