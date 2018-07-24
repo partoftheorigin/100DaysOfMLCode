@@ -23,3 +23,7 @@ My journey through 100DaysOfMLCode Challenge
 - Working on Automated Question Generation.
 - Attended a Meetup on Getting to the Core of Deep Learning.
 - Still understanding the underlying concepts and approaches of the research papers so that we can create our own model from scratch.
+
+### Day 5
+- Working on Automated Question Generation.
+- Experimenting with SQuAD2.0 The Stanford Question Answering Dataset
