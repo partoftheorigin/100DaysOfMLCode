@@ -27,3 +27,8 @@ My journey through 100DaysOfMLCode Challenge
 ### Day 5
 - Working on Automated Question Generation.
 - Experimenting with SQuAD2.0 The Stanford Question Answering Dataset
+
+### Day 6
+- Working on Automated Question Generation.
+- Started implementation of Context based Question-Answering model based on NeuralQA paper for Stanford SQuAd Dataset.
+- Preparing data now.
