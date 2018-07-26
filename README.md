@@ -32,3 +32,6 @@ My journey through 100DaysOfMLCode Challenge
 - Working on Automated Question Generation.
 - Started implementation of Context based Question-Answering model based on NeuralQA paper for Stanford SQuAd Dataset.
 - Preparing data now.
+
+### Day 7
+- 
