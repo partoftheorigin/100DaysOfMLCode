@@ -35,5 +35,5 @@ My journey through 100DaysOfMLCode Challenge
 
 ### Day 7
 - Continuing work on Neural Question Answer Generation.
-- Processing SQuAd Datset to get it ready for training.
+- Processing SQuAd Dataset to get it ready for training.
 - Once the data is ready I will create word embeddings using GloVe.
