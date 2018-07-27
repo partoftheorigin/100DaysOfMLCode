@@ -21,7 +21,7 @@ My journey through 100DaysOfMLCode Challenge
 
 ### Day 4
 - Working on Automated Question Generation.
-- Attended a Meetup on Getting to the Core of Deep Learning.
+- Attended a MeetUp on Getting to the Core of Deep Learning.
 - Still understanding the underlying concepts and approaches of the research papers so that we can create our own model from scratch.
 
 ### Day 5
