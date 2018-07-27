@@ -37,3 +37,9 @@ My journey through 100DaysOfMLCode Challenge
 - Continuing work on Neural Question Answer Generation.
 - Processing SQuAd Dataset to get it ready for training.
 - Once the data is ready I will create word embeddings using GloVe.
+
+### Day 8
+- Working on Neural QA.
+- Preprocessed and saved data to be used afterwards for training.
+- Creating word embeddings using GloVe.
+- Repo: https://github.com/partoftheorigin/NeuralQuestionAnswer
