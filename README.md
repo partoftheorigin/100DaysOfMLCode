@@ -43,3 +43,8 @@ My journey through 100DaysOfMLCode Challenge
 - Preprocessed and saved data to be used afterwards for training.
 - Creating word embeddings using GloVe.
 - Repo: https://github.com/partoftheorigin/NeuralQuestionAnswer
+
+### Day 9
+- Read this text classification guide by Google Developers: https://developers.google.com/machine-learning/guides/text-classification/
+- Helped a friend with her first ML project, classification using Iris Dataset.
+- Will continue work on Automated Question Answer Generation using SQuAD Dataset.
