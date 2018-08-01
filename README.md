@@ -48,3 +48,7 @@ My journey through 100DaysOfMLCode Challenge
 - Read this text classification guide by Google Developers: https://developers.google.com/machine-learning/guides/text-classification/
 - Helped a friend with her first ML project, classification using Iris Dataset.
 - Will continue work on Automated Question Answer Generation using SQuAD Dataset.
+
+### Day 10
+- Browsed various GitHub repositories
+- Worked on Google's Text Classification guide and Neural QA.
