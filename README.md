@@ -57,3 +57,6 @@ My journey through 100DaysOfMLCode Challenge
 - Completed work on Automated Question Generation.
 - Read research on Fast and Easy Short Answer Grading with High Accuracy - http://www.aclweb.org/anthology/N16-1123
 - Getting hands-on with statistical packages in Python.
+
+### Day 12
+- Read research on Neural Arithmetic Logic Units - https://arxiv.org/pdf/1808.00508.pdf
