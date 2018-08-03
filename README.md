@@ -54,4 +54,6 @@ My journey through 100DaysOfMLCode Challenge
 - Worked on Google's Text Classification guide and Neural QA.
 
 ### Day 11
-- 
+- Completed work on Automated Question Generation.
+- Read research on Fast and Easy Short Answer Grading with High Accuracy - http://www.aclweb.org/anthology/N16-1123
+- Getting hands-on with statistical packages in Python.
