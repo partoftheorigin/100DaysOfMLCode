@@ -52,3 +52,6 @@ My journey through 100DaysOfMLCode Challenge
 ### Day 10
 - Browsed various GitHub repositories
 - Worked on Google's Text Classification guide and Neural QA.
+
+### Day 11
+- 
