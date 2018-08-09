@@ -60,3 +60,5 @@ My journey through 100DaysOfMLCode Challenge
 
 ### Day 12
 - Read research on Neural Arithmetic Logic Units - https://arxiv.org/pdf/1808.00508.pdf
+- Neural networks enhanced with Neural Arithmetic Logic Units (NALU) can learn to track time, perform arithmetic over images of numbers, translate numerical language into real-valued scalars, execute computer code, and count objects in images.
+- Will be coding this paper in PyTorch
